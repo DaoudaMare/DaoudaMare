@@ -11,7 +11,7 @@
   Hey there! I'm Daouda Mare
 </h1>
 
-<h3 align="center">🚀 Full-Stack Developer | 💰 Fintech Specialist | 🌍 Based in Burkina Faso</h3>
+<h3 align="center">🚀 Full-Stack Developer | 💰 Fintech Specialist </h3>
 
 <br>
 
@@ -94,12 +94,6 @@ fun_fact: "I debug with rubber ducks 🦆"
 
 <br>
 
-## 🏃‍♂️ Current Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daoudamare&theme=algolia" alt="daoudamare" />
-</p>
-
 <br>
 
 ## 🤝 Let's Connect
@@ -108,8 +102,8 @@ fun_fact: "I debug with rubber ducks 🦆"
   <a href="https://www.linkedin.com/in/daouda-mare-951275285/">
     <img src="https://img.shields.io/badge/-Daouda%20Mare-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-your.email@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  <a href="mailto:daoudamare19@gmail.com">
+    <img src="https://img.shields.io/badge/-daoudamare19@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/daoudamare">
     <img src="https://img.shields.io/github/followers/daoudamare?label=follow&style=social"/>
